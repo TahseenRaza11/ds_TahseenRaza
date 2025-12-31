@@ -22,7 +22,7 @@ ds_Tahseen/
 └── outputs/               # Visual outputs, graphs, and charts
     ├── volume_analysis.png
     ├── profitability_analysis.png
-        risk_adjusted_returns.png
+    ├── risk_adjusted_returns.png
     ├── leverage_risk.png
     └── trader_bias_signal.png
 
