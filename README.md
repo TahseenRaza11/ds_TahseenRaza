@@ -74,7 +74,7 @@ To reproduce the analysis locally or in Colab, you will need:
 
 ### How to Run
 
-1. Clone the repository: `git clone https://github.com/YOUR_GITHUB_USERNAME/ds_Tahseen.git`
+1. Clone the repository: `git clone https://github.com/TahseenRaza11/ds_Tahseen.git`
 2. Upload `notebook_1.ipynb` to Google Colab.
 3. Ensure the CSV datasets are in the same root directory as the notebook.
 4. Run all cells to regenerate the `outputs/` and `csv_files/`.
